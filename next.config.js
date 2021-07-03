@@ -3,7 +3,7 @@ module.exports = {
   images: {
     domains: [
       "coaching.papareact.com",
-      "www.google.co.uk"
+      "www.google.co.uk",
     ],
   },
 };
