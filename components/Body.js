@@ -45,7 +45,7 @@ function Body() {
         sm:space-y-0 sm:flex-row sm:space-x-4
       ">
         <button onClick={search} className="btn">Google Search</button>
-        <button onClick={search} className="btn">I'm Feeling Lucky</button>        
+        <button onClick={search} className="btn">Im Feeling Lucky</button>        
       </div>
     </form>
   )
