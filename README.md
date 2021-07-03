@@ -1,4 +1,4 @@
-## Getting Started with Facebook 2.0
+## Getting Started with Google 2.0
 
 Run the development server:
 
@@ -17,6 +17,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 env variables to work).
 
-Example version deployed on: [https://facebook-clone-fedecaccia.vercel.app](https://facebook-clone-fedecaccia.vercel.app).
+Example version deployed on: [https://google-clone-fedecaccia.vercel.app](https://google-clone-fedecaccia.vercel.app).
 
 App inspired by [this awesome Sonny Sanngha video](https://www.youtube.com/watch?v=24xpTmaPOdY).
